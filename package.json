@@ -1,0 +1,21 @@
+{
+  "name": "acg-dark",
+  "displayName": "acg-dark",
+  "description": "A Dark theme that suits my needs.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "acg-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/acg-dark-color-theme.json"
+      }
+    ]
+  }
+}
